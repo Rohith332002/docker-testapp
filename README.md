@@ -1,2 +1,2 @@
 # docker-testapp
-Testing Jenkins webhook integration 🚀
+Testing Jenkins webhook integration 
